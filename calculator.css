@@ -1,0 +1,72 @@
+*body{
+	margin: 0; 
+	padding: 0;
+} 
+#outer-div{
+	margin: 2rem; 
+	background-color: lightgrey; 
+	/*padding-top: 3rem;*/
+	width: 26.5rem; 
+	height: 35rem;
+} 
+#inner-div{ 
+	height: 29rem; 
+	margin: 3rem; 
+	background-color: lightgrey; 
+	padding-top: 1rem;
+
+}   
+#inner-div-1{ 
+    /*height: 5rem; */
+    color: black; 
+    margin: .4rem; 
+    margin-left: .2rem;
+    background-color: white;  
+    border: 2px solid black; 
+    padding-top: 1rem;
+}  
+#answer{
+	text-align: right; 
+	margin-bottom: 2px; 
+	font-size: 2rem; 
+	margin-right: .3rem;
+}
+#inner-div-2{ 
+	margin: .2rem;
+	border: 2px solid lightgrey;
+} 
+.button-1{ 
+   height: 5rem; 
+   width: 5rem; 
+   margin: -.15rem; 
+   font-size: 2rem;
+}  
+#button-8{ 
+   height: 5rem; 
+   width: 5rem; 
+   margin: -.15rem; 
+   font-size: 2rem;
+} 
+.button-2{
+   height: 5rem; 
+   width: 9.97rem; 
+   margin: -.15rem; 
+   font-size: 2rem;
+} 
+.sub-button-4{ 
+	height: 5rem; 
+   width: 5rem; 
+   margin: -.15rem; 
+   font-size: 2rem;
+	background-color: darkred; 
+	color: white;
+}
+.click-1{
+	display: inline-block; 
+} 
+.button-1:hover{
+	background-color: darkred;
+} 
+.button-2:hover{
+	background-color: darkred;
+} 
